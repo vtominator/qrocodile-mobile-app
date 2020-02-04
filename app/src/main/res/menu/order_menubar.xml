@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menuMenu"
+        android:icon="@drawable/logo_menu"
+        android:title="@string/menu"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menuCart"
+        android:icon="@drawable/logo_cart"
+        android:title="@string/cart"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menuLogout"
+        android:icon="@drawable/logo_logout"
+        android:title="@string/logout"
+        app:showAsAction="always"/>
+</menu>

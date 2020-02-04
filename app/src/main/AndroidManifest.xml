@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vtominator.qrocodile">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/qrocodile_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/qrocodile_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name="com.vtominator.qrocodile.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.vtominator.qrocodile.ScannerActivity"></activity>
+        <activity android:name="com.vtominator.qrocodile.MenucardActivity"></activity>
+        <activity android:name="com.vtominator.qrocodile.OrderActivity"></activity>
+        <activity android:name="com.vtominator.qrocodile.CartActivity"></activity>
+        <activity android:name="com.vtominator.qrocodile.NoInternetActivity" />
+    </application>
+
+</manifest>

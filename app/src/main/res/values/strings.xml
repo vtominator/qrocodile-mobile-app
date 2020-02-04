@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QRocodile</string>
+    <string name="menu">Étlap</string>
+    <string name="scanMenu">Scan</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="scan">Scan indítása</string>
+    <string name="more_information">További információra van szüksége?</string>
+    <string name="description">Az alkalmazás megkönnyíti az étlapon szereplő tételek böngészését,
+                                jelentősen felgyorsítja és leegyszerűsítheti rendelésének
+                                leadását, valamint valós idejű visszajelzést küld annak pillanatnyi
+                                állapotáról.</string>
+    <string name="usage">A gombra kattintva scannelje be készüléke segítségével az asztalon található QR-kódot!</string>
+    <string name="selectedFood">Választott tétel</string>
+    <string name="order">Rendeléseim</string>
+    <string name="order_now">Megrendelem</string>
+    <string name="cart">Kosár tartalma</string>
+    <string name="cancel">Mégse</string>
+</resources>
