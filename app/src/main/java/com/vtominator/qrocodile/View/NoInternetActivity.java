@@ -1,4 +1,4 @@
-package com.vtominator.qrocodile;
+package com.vtominator.qrocodile.View;
 
 import android.content.Context;
 import android.content.Intent;
@@ -15,7 +15,8 @@ import android.view.MenuItem;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.vtominator.qrocodile.Utils.SharedPrefManager;
+import com.vtominator.qrocodile.Control.SharedPrefManager;
+import com.vtominator.qrocodile.R;
 
 public class NoInternetActivity extends AppCompatActivity {
     private static final String TAG = "NoInternetActivity";

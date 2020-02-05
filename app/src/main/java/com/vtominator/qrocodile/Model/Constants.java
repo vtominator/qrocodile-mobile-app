@@ -1,4 +1,4 @@
-package com.vtominator.qrocodile.Utils;
+package com.vtominator.qrocodile.Model;
 
 public class Constants {
     public static final String ROOT_URL = "http://www.zavod.nhely.hu/qrocodile/v1/";

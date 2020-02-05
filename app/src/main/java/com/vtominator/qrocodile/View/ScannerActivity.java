@@ -1,4 +1,4 @@
-package com.vtominator.qrocodile;
+package com.vtominator.qrocodile.View;
 
 import android.content.Context;
 import android.content.DialogInterface;

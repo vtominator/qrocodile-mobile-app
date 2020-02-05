@@ -1,4 +1,4 @@
-package com.vtominator.qrocodile;
+package com.vtominator.qrocodile.View;
 
 import android.content.Context;
 import android.content.Intent;
@@ -28,10 +28,11 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
-import com.vtominator.qrocodile.Utils.Constants;
-import com.vtominator.qrocodile.Utils.RestaurantMenuCardAdapter;
-import com.vtominator.qrocodile.Utils.RestaurantMenuCardItem;
-import com.vtominator.qrocodile.Utils.SharedPrefManager;
+import com.vtominator.qrocodile.Model.Constants;
+import com.vtominator.qrocodile.Control.RestaurantMenuCardAdapter;
+import com.vtominator.qrocodile.Model.RestaurantMenuCardItem;
+import com.vtominator.qrocodile.Control.SharedPrefManager;
+import com.vtominator.qrocodile.R;
 
 import org.json.JSONException;
 import org.json.JSONObject;

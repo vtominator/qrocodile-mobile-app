@@ -1,4 +1,4 @@
-package com.vtominator.qrocodile.Utils;
+package com.vtominator.qrocodile.Model;
 
 import java.util.Random;
 

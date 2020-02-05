@@ -1,4 +1,4 @@
-package com.vtominator.qrocodile.Utils;
+package com.vtominator.qrocodile.Control;
 
 import android.content.Context;
 import android.content.SharedPreferences;

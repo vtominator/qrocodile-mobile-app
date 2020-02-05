@@ -14,18 +14,18 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name="com.vtominator.qrocodile.LoginActivity">
+        <activity android:name="com.vtominator.qrocodile.View.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.vtominator.qrocodile.ScannerActivity"></activity>
-        <activity android:name="com.vtominator.qrocodile.MenucardActivity"></activity>
-        <activity android:name="com.vtominator.qrocodile.OrderActivity"></activity>
-        <activity android:name="com.vtominator.qrocodile.CartActivity"></activity>
-        <activity android:name="com.vtominator.qrocodile.NoInternetActivity" />
+        <activity android:name="com.vtominator.qrocodile.View.ScannerActivity"></activity>
+        <activity android:name="com.vtominator.qrocodile.View.MenucardActivity"></activity>
+        <activity android:name="com.vtominator.qrocodile.View.OrderActivity"></activity>
+        <activity android:name="com.vtominator.qrocodile.View.CartActivity"></activity>
+        <activity android:name="com.vtominator.qrocodile.View.NoInternetActivity" />
     </application>
 
 </manifest>

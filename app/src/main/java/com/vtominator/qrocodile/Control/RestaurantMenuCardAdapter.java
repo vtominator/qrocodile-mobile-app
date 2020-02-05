@@ -1,4 +1,4 @@
-package com.vtominator.qrocodile.Utils;
+package com.vtominator.qrocodile.Control;
 
 
 import android.support.annotation.NonNull;
@@ -9,6 +9,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.vtominator.qrocodile.Model.Constants;
+import com.vtominator.qrocodile.Model.RestaurantMenuCardItem;
 import com.vtominator.qrocodile.R;
 import com.squareup.picasso.Picasso;
 
