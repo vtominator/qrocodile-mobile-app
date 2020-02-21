@@ -16,24 +16,15 @@
 
 - You can download the APK from <a href="https://drive.google.com/open?id=195wAqEkKmVIYwZMv3kuH_KwyvWo95_f3" target="_blank">**here**</a>
 
-## Contributing
+---
 
-> Lend me a hand...
+## Support
 
-### Step 1
+> Reach out to me at one of the following places!
 
-- 🍴 Fork this repo!
-
-   **OR**
-
-- 👯 Clone to your local machine using `https://github.com/vtominator/qrocodile-mobile-app.git`
-
-### Step 2
-
-- 🔨 Make some process.
-
-### Step 3
-
-- 🔃 Create a new pull request using <a href="https://github.com/vtominator/qrocodile-mobile-app/compare/" target="_blank">`https://github.com/vtominator/qrocodile-mobile-app/compare/`</a>.
+- 🌍 Website at <a href="http://vtominator.github.io" target="_blank">`vtominator.github.io`</a> 
+- 💼 LinkedIn at <a href="https://www.linkedin.com/in/tamas-val/" target="_blank">`tamas-val`</a>
+- 📷 Instagram at <a href="https://www.instagram.com/vtominator" target="_blank">`vtominator`</a>
+- 🎥 YouTube at <a href="https://youtube.com/tomthecat" target="_blank">`tomthecat`</a>
 
 ---
