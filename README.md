@@ -16,8 +16,6 @@
 
 - You can download the APK from <a href="https://drive.google.com/open?id=195wAqEkKmVIYwZMv3kuH_KwyvWo95_f3" target="_blank">**here**</a>
 
----
-
 ## Support
 
 > Reach out to me at one of the following places!
